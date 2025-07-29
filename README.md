@@ -1,6 +1,5 @@
 # **Designing the Bivy Restaurant Microservices: My Contribution to the ERD and Vision for User/Menu Services**  
 
-![Bivy microservice Screenshot](./Assets/Bivy-microservice-ERD.png)
 ## **Introduction**  
 As part of the **Bivy Restaurant Microservices** project, our team is building a scalable backend system using **FastAPI (Python)** and **NestJS (TypeScript)**. My role involves leading the **User Service** and **Menu Service**, as well as contributing to the **Entity-Relationship Diagram (ERD)** design. In this post, I’ll share:  
 1. **My contributions to the ERD**  
@@ -11,6 +10,7 @@ As part of the **Bivy Restaurant Microservices** project, our team is building a
 
 ## **1. My Contribution to the ERD Design**  
 The ERD is the backbone of our system, ensuring data consistency across microservices. Here’s how I contributed:  
+![Bivy microservice Screenshot](./Assets/Bivy-microservice-ERD.png)
 
 ### **a) User Service Schema**  
 I designed the **User** and **UserRole** tables to support:  
